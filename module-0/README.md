@@ -42,7 +42,7 @@ ollama run gemma4 "Say hello in one sentence"
 ## Step 3: Clone the Repo
 
 ```bash
-git clone https://github.com/trainwithshubham/agentic-ai-for-devops.git
+git clone https://github.com/Kamlesh616/agentic-ai-for-devops.git
 cd agentic-ai-for-devops
 ```
 
