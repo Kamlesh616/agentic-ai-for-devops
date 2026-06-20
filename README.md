@@ -10,13 +10,12 @@
 
 > Build AI agents that automate real DevOps infrastructure tasks — from kubectl error explanations to a self-healing Kubernetes system.
 
-A 2-day hands-on course by [Shubham Londhe](https://github.com/LondheShubham153) / [TrainWithShubham](https://www.youtube.com/@TrainWithShubham)
 
 ---
 
 ## The Journey
 
-You start with zero LLM experience and end up building **KubeHealer** — an AI agent that detects broken Kubernetes pods, diagnoses the root cause, and fixes them automatically.
+I start with zero LLM experience and end up building **KubeHealer** — an AI agent that detects broken Kubernetes pods, diagnoses the root cause, and fixes them automatically.
 
 ### Day 1 — Foundations
 
@@ -32,7 +31,7 @@ You start with zero LLM experience and end up building **KubeHealer** — an AI 
 | Module | What You'll Build |
 |--------|-------------------|
 | [Module 4 — AIOps Demystified](module-4/) | The AIOps landscape, guardrails, and why durability matters |
-| [Module 5 — KubeHealer](module-5/) | Self-healing K8s agent with Temporal and Claude ([separate repo](https://github.com/TrainWithShubham/kubehealer)) |
+| [Module 5 — KubeHealer](module-5/) | Self-healing K8s agent with Temporal and Claude  |
 | [Module 6 — Build Your Own AIOps Agent](module-6/) | CI/CD Failure Analyzer — diagnose GitHub Actions failures with an AI agent |
 
 ---
@@ -57,7 +56,7 @@ Already have Docker, kubectl, and Kind? Head to **[Module 0](module-0/)** to set
 ## Quick Start
 
 ```bash
-git clone https://github.com/trainwithshubham/agentic-ai-for-devops.git
+git clone https://github.com/Kamlesh616/agentic-ai-for-devops.git
 cd agentic-ai-for-devops
 
 python3 -m venv .venv
@@ -87,5 +86,5 @@ See **[Module 0](module-0/)** for the full step-by-step setup.
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/LondheShubham153">Shubham Londhe</a> for the <a href="https://www.youtube.com/@TrainWithShubham">TrainWithShubham</a> community
+  Built by <a href="https://github.com/Kamlesh616">Kamlesh Rathod</a>
 </p>
