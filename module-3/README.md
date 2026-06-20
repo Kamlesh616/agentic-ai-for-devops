@@ -1,6 +1,6 @@
 # Module 3 — Multi-Tool DevOps Agent + MCP
 
-You built a Docker troubleshooter in Module 2. Now you add Kubernetes tools to the same agent, and learn how MCP lets any AI system use your tools — not just LangChain.
+I built a Docker troubleshooter in Module 2. Now you add Kubernetes tools to the same agent, and learn how MCP lets any AI system use your tools — not just LangChain.
 
 ## What You'll Learn
 
